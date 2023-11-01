@@ -5,3 +5,4 @@ dist-ssr
 *.local
 *replit*
 .prettierignore
+vite.config.js.timestamp-*.mjs
